@@ -25,6 +25,7 @@ int next_mkt_id = 1;
 int next_rob_id = 1;
 
 
+
 class Pracownik
 {
 public:
